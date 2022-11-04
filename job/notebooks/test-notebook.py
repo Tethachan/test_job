@@ -3,4 +3,4 @@ print("hello")
 
 # COMMAND ----------
 
-dbutils.notebook.run("./chlid_notebook.py")
+dbutils.notebook.run("/Users/satoshi.okayama@databricks.com/chlid_notebook")
