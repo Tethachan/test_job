@@ -1,2 +1,2 @@
 # Databricks notebook source
-print("I'm child sync test update")
+print("change configuration for git reference on workflow")
