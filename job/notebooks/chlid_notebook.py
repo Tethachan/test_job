@@ -1,2 +1,2 @@
 # Databricks notebook source
-print("I'm child")
+print("I'm child sync test")
